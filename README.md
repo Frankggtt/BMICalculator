@@ -1,0 +1,2 @@
+# BMICalculator
+Prosty kalkulator BMI
